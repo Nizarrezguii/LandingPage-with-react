@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# This a LandingPage that I worked on in my Freetime
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I used ReactJs and Bootstrap to create this Responsive Web Page.
 
 ## Videos of the project
 
